@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #f3f6f5;
+}
+
+.container {
+  max-width: 900px;
+  margin: 60px auto; /* centers horizontally */
+  padding: 40px;
+  background: #e6efeb;
+  border-radius: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2f4f4f;
+}
+
+p {
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
